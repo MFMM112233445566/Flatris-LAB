@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool:
+pool: R2D2
   vmImage: ubuntu-latest
 
 steps:
