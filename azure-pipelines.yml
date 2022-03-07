@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: R2D2
+pool: newAgent
   #vmImage: ubuntu-latest
 
 steps:
